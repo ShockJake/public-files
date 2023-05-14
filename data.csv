@@ -1,4 +1,5 @@
-url;title;rooms;price;area;loc
+;url;title;rooms;price;area;loc
+https://www.otodom.pl/pl/oferta/plac-inwalidow-3-pokojowe-w-centrum-na-poddaszu-ID49l8b;Plac Inwalidów | 3 pokojowe w centrum na poddaszu;3;420000;54;Krowodrza
 https://www.otodom.pl/pl/oferta/piekne-z-klimatem-garaz-piwnica-bronowice-ID4lcPA;PIEKNE, z klimatem!!! garaż, piwnica BRONOWICE;3;829000;65;Bronowice
 https://www.otodom.pl/pl/oferta/trzypokojowe-po-remoncie-przy-parku-ID4kIGe;Trzypokojowe po remoncie przy parku;3;597000;46.8;Prądnik Biały
 https://www.otodom.pl/pl/oferta/mieszkanie-64-73-m-krakow-ID4laOt;Mieszkanie, 64,73 m², Kraków;2;940000;64.73;Stare Miasto
@@ -64,7 +65,7 @@ https://www.otodom.pl/pl/oferta/nowoczesne-i-gotowe-do-zamieszkania-grzegorzki-I
 https://www.otodom.pl/pl/oferta/nowa-kawalerka-ogrodek-wysoki-standard-nowohucka-ID4lfbZ;Nowa kawalerka| ogródek |wysoki standard|Nowohucka;1;269000;20;Podgórze
 https://www.otodom.pl/pl/oferta/2-osobne-pokoje-1-pietro-loggia-cena-do-negocjacji-ID4lcbx;2 osobne pokoje|1 piętro|loggia|cena do negocjacji;2;489000;42.5;Krowodrza
 https://www.otodom.pl/pl/oferta/zameszkaj-100m-od-wislanych-bulwarow-ID4lsO3;Zameszkaj 100m od Wiślanych Bulwarów!;3;650000;61.48;Podgórze
-https://www.otodom.pl/pl/oferta/kuchnia-z-oknem-duzy-balkon-ID4lsO2;Kuchnia Z Oknem! Duży Balkon!;4;700000;66.75;Prądnik Biały
+https://www.otodom.pl/pl/oferta/64220966;Kuchnia Z Oknem! Duży Balkon!;4;700000;66.75;Prądnik Biały
 https://www.otodom.pl/pl/oferta/63768847;3-pokojowe mieszkanie 66m2 + balkon Bezpośrednio;3;893565;66.19;Kraków
 https://www.otodom.pl/pl/oferta/64105347;Dwupoziomowy apartament - Stara Krowodrza Kraków;4;1498000;153.15;Krowodrza
 https://www.otodom.pl/pl/oferta/63774075;Przestronne mieszkanie przy ul. Ślicznej;3;930000;75;Grzegórzki
@@ -82,7 +83,7 @@ https://www.otodom.pl/pl/oferta/62318738;2-pokojowe mieszkanie 45m2 + balkon Bez
 https://www.otodom.pl/pl/oferta/63998028;2-pokojowe mieszkanie w zabytkowej Kamienicy;2;850497;65.93;małopolskie
 https://www.otodom.pl/pl/oferta/64016760;2-3 pokojowe mieszkanie z balkonem/Ruczaj;2;666900;58.5;Dębniki
 https://www.otodom.pl/pl/oferta/64193640;Krowodrza Górka 38m², 2 pokoje z j.kuchnią tramwaj;2;450000;38;Krowodrza
-https://www.otodom.pl/pl/oferta/62911147;RYNEK GŁÓWNY; MAŁY RYNEK; parking; dwie piwnice;2;1590000;92.49;Stare Miasto
+https://www.otodom.pl/pl/oferta/62911147;RYNEK GŁÓWNY, MAŁY RYNEK, parking, dwie piwnice;2;1590000;92.49;Stare Miasto
 https://www.otodom.pl/pl/oferta/64123192;• Bezpośrednio • Do wejścia • Wysoki standard;3;2216400;82.24;Grzegórzki
 https://www.otodom.pl/pl/oferta/64182521;Piękne, słoneczne, trzypoziomowe mieszkanie;4;829000;84;Mistrzejowice
 https://www.otodom.pl/pl/oferta/63863208;Duże i jasne-idealne dla rodziny/pod wynajem;4;965000;96.3;Grzegórzki
@@ -155,9 +156,9 @@ https://www.otodom.pl/pl/oferta/62837343;4-pokojowe mieszkanie 68m2 + loggia Bez
 https://www.otodom.pl/pl/oferta/64018150;Duże mieszkanie w zielonej okolicy - Lipska;3;638000;70.1;Podgórze
 https://www.otodom.pl/pl/oferta/64157622;Apartament z 2020 roku, Prądnik Czerwony ;2;970000;67;Prądnik Czerwony
 https://www.otodom.pl/pl/oferta/64212870;2-Pok Mieszkanie Na Sprzedaż Ul. Glinik Kraków;2;320000;49.81;Wzgórza Krzesławickie
-https://www.otodom.pl/pl/oferta/63459316;3-pokojowy apartament inwestycyjny 85m2 + ogródek;3;1354089;85.34;Krowodrza
 https://www.otodom.pl/pl/oferta/64220625;3 pokoje osiedle piastów do wejscia lub najmu;3;499000;46.8;Nowa Huta
 https://www.otodom.pl/pl/oferta/64220624;3 pok nowe mieszkanie. GOTOWE!;3;491500;53.2;Bieżanów-Prokocim
+https://www.otodom.pl/pl/oferta/63459316;3-pokojowy apartament inwestycyjny 85m2 + ogródek;3;1354089;85.34;Krowodrza
 https://www.otodom.pl/pl/oferta/62981576;2-pokojowy apartament 35m2 + balkon;2;592062;35.5;Podgórze
 https://www.otodom.pl/pl/oferta/63981964;63,30m2 - 3 pokoje plus poddasze - Kurdwanów;4;634000;63.3;Podgórze Duchackie
 https://www.otodom.pl/pl/oferta/64196121;Czyżyny - 2 Pokoje - Park Lotników;2;687500;55.26;Nowa Huta
@@ -279,6 +280,7 @@ https://www.otodom.pl/pl/oferta/64199345;Komfortowe 3 pokoje |ostatnie piętro| 
 https://www.otodom.pl/pl/oferta/64206477;Promocja| Gotowe 3 pokoje + miejsce postojowe;3;492179;53.04;Bieżanów-Prokocim
 https://www.otodom.pl/pl/oferta/64210703;Promocja| Gotowe 3 pokoje + dwa miejsca garażowe;3;516907;53.01;Bieżanów-Prokocim
 https://www.otodom.pl/pl/oferta/64210622;Bezpośrednio od dewelopera brak PCC;2;593900;48.18;Mistrzejowice
+https://www.otodom.pl/pl/oferta/63986554;Komfortowe 3-p dla Rodziny w Zielonej Okolicy;3;692500;63;Podgórze
 https://www.otodom.pl/pl/oferta/63986554;Komfortowe 3-p dla Rodziny w Zielonej Okolicy;3;692500;63;Podgórze
 https://www.otodom.pl/pl/oferta/64139839;Mieszkanie w spokojnej okolicy. Wysoki standard.;3;1350000;58.47;Bronowice
 https://www.otodom.pl/pl/oferta/64220181;Kliny | 4-pokojowe mieszkanie z dwoma balkonami;4;699000;77.31;Dębniki
@@ -1138,7 +1140,6 @@ https://www.otodom.pl/pl/oferta/64180136;3-pokojowe mieszkanie 81m2 + 2 balkony;
 https://www.otodom.pl/pl/oferta/64180106;1-pokojowe mieszkanie 32m2 + balkon Bez Prowizji;1;Null;32.96;Stare Miasto
 https://www.otodom.pl/pl/oferta/64180122;2-pokojowe mieszkanie 58m2 + 2 balkony;2;Null;58.88;Stare Miasto
 https://www.otodom.pl/pl/oferta/62141595;2-pokojowe mieszkanie 47m2 + balkon Bezpośrednio;2;Null;47.33;Prądnik Czerwony
-https://www.otodom.pl/pl/oferta/61331527;Plac Inwalidów | 3 pokojowe w centrum na poddaszu;3;420000;54;Krowodrza
 https://www.otodom.pl/pl/oferta/63995574;3-pokojowe mieszkanie 53m2 + balkon Bezpośrednio;3;Null;53.31;Nowa Huta
 https://www.otodom.pl/pl/oferta/63995576;2-pokojowe mieszkanie 41m2 + balkon;2;Null;41.06;Nowa Huta
 https://www.otodom.pl/pl/oferta/63145769;4-pokojowe mieszkanie 66m2 + balkon Bezpośrednio;4;Null;66.62;Prądnik Biały
@@ -1360,4 +1361,3 @@ https://www.otodom.pl/pl/oferta/64213258;3 pok. mieszkanie na sprzedaż, Bohater
 https://www.otodom.pl/pl/oferta/64213236;Mieszkanie ze służebnością;1;380000;39.86;małopolskie
 https://www.otodom.pl/pl/oferta/64213223;Kraków – Salwator – ul. Królowej Jadwigi / Przegon;2;615000;41.1;Zwierzyniec
 https://www.otodom.pl/pl/oferta/64213219;Atrakcyjne mieszkanie w zielonej okolicy - Heleny;2;463000;52;Bieżanów-Prokocim
-https://www.otodom.pl/pl/oferta/64213203;Zadbane 2 pokoje +kuchnia, rejon Ronda Mogilskiego;2;575000;42;Grzegórzki
