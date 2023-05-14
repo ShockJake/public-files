@@ -58,7 +58,7 @@ def write_data_from_item(item, file, location_nodes):
         if item["totalPrice"] != None:
             price = item["totalPrice"]["value"]
         else:
-            price = "Null"
+            price = "0.0"
         area = item["areaInSquareMeters"]
         loc = item["locationLabel"]["value"].split(',')[1].strip()
     
