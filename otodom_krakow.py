@@ -86,7 +86,7 @@ def main():
     session = requests.Session()
     
     try:
-        file.write(";url;title;rooms;price;area;loc\n")
+        file.write("url;title;rooms;price;area;loc\n")
         
         url = "https://www.otodom.pl/pl/oferty/sprzedaz/mieszkanie/krakow?limit=72&page="
         for i in range(1, 20):
